@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aditi Mhatre 👋
 
-<!--
-**aditimhatre97/aditimhatre97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student in Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python, Java and SQL
+- 💻 Uploading college assignments and mini projects
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🎯 Goal: Build a strong software development portfolio
+
+## Skills
+
+- Python
+- Java
+- SQL
+- Git & GitHub
+
+## Current Focus
+
+- Python Programming
+- Data Structures
+- AI & ML Fundamentals
+
+Thanks for visiting my profile! 😊
